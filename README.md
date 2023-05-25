@@ -1,0 +1,2 @@
+# GetBomBom-SpecialValentinesDay-2048
+ This project is a special gift and a declaration of love to my girlfriend on the occasion of Valentine's Day. With the holiday approaching, I wanted to create something unique to pay tribute to the essence of romance. As my girlfriend has an incredible talent for always winning the game 2048, I thought it would be fitting to create a customized version of the game just for her. This README will provide an overview of the project and explain how to play this special Valentine's Day edition of 2048.
